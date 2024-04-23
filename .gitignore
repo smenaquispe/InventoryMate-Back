@@ -1,0 +1,40 @@
+# VS Code and Visual Studio artifacts
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates.suo
+
+# Build outputs
+/bin/
+/obj/
+/out/
+
+# ASP.NET specific
+/App_Data/
+/App_Data/
+/App_Code/
+*.csproj.user
+*.csproj.DotSettings
+*.vbproj.user
+*.vbproj.DotSettings
+/Properties/PublishProfiles/
+
+# Package management and generated files
+/packages/
+project.lock.json
+*.ps1
+*.psm1
+
+# Azure deployment files
+*.publishsettings
+*.Publish.xml
+
+# Miscellaneous
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+*.pyc
+*.pyo
+*.orig
+*.bak
